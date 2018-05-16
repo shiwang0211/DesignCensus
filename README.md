@@ -1,7 +1,7 @@
 # DesignCensus
-Analysis for Design Census 2017
+Analysis for Design Census 2017 survey data
 
-## Data Source
+## Open Data Source
 https://designcensus.org/
 
 ## Data Exploration and Data Visualization
